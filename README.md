@@ -1,4 +1,4 @@
-# rest_api_with_getx_sample_project
+# Makeup Products Viewer App in Flutter with REST API and GetX
 
 This is a sample project written in Flutter, which aims to show how to integrate REST API with GetX application.
 
@@ -6,4 +6,4 @@ This is a sample project written in Flutter, which aims to show how to integrate
 
 ## Getting Started
 
-clone the repo, and open folder with VS Code, then run project.
+Clone the repo, and open folder with VS Code, then run project.
