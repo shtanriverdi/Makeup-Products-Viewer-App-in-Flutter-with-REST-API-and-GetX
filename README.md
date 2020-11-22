@@ -1,16 +1,9 @@
 # rest_api_with_getx_sample_project
 
-A new Flutter project.
+This is a sample project written in Flutter, which aims to show how to integrate REST API with GetX application.
+
+![2020-11-22 18_42_26-Arama](https://user-images.githubusercontent.com/36234545/99908334-0bb4b780-2cf3-11eb-8f66-19a78feecd35.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+clone the repo, and open folder with VS Code, then run project.
